@@ -1,0 +1,325 @@
+2025-05-07 12:28:59,402 [main] INFO : Register Page Object Created...
+2025-05-07 12:29:00,324 [main] DEBUG: SignIn/SignUp words Clicked..
+2025-05-07 12:29:00,389 [main] DEBUG: Entered Name ..
+2025-05-07 12:29:00,446 [main] DEBUG: Entered Email ..
+2025-05-07 12:29:00,568 [main] DEBUG: SignUp Button Clicked..
+2025-05-07 12:29:01,994 [main] DEBUG: Entered First Name ..
+2025-05-07 12:29:02,047 [main] DEBUG: Entered Last Name ..
+2025-05-07 12:29:02,109 [main] DEBUG: Entered Company Name ..
+2025-05-07 12:29:02,167 [main] DEBUG: Entered address one ..
+2025-05-07 12:29:02,227 [main] DEBUG: Entered address two ..
+2025-05-07 12:29:02,283 [main] DEBUG: Entered City Field..
+2025-05-07 12:29:02,391 [main] DEBUG: Entered State Field..
+2025-05-07 12:29:02,447 [main] DEBUG: Entered zip code Field..
+2025-05-07 12:29:02,510 [main] DEBUG: Entered Mobile Number Field..
+2025-05-07 12:29:02,573 [main] DEBUG: Register Button Clicked..
+2025-05-07 12:29:47,823 [main] INFO : Register Page Object Created...
+2025-05-07 12:29:49,180 [main] DEBUG: SignIn/SignUp words Clicked..
+2025-05-07 12:29:49,280 [main] DEBUG: Entered Name ..
+2025-05-07 12:29:49,325 [main] DEBUG: Entered Email ..
+2025-05-07 12:29:49,446 [main] DEBUG: SignUp Button Clicked..
+2025-05-07 12:29:50,761 [main] DEBUG: Entered First Name ..
+2025-05-07 12:29:50,805 [main] DEBUG: Entered Last Name ..
+2025-05-07 12:29:50,852 [main] DEBUG: Entered Company Name ..
+2025-05-07 12:29:50,921 [main] DEBUG: Entered address one ..
+2025-05-07 12:29:50,981 [main] DEBUG: Entered address two ..
+2025-05-07 12:29:51,026 [main] DEBUG: Entered City Field..
+2025-05-07 12:29:51,129 [main] DEBUG: Entered State Field..
+2025-05-07 12:29:51,174 [main] DEBUG: Entered zip code Field..
+2025-05-07 12:29:51,226 [main] DEBUG: Entered Mobile Number Field..
+2025-05-07 12:29:51,287 [main] DEBUG: Register Button Clicked..
+2025-05-07 12:30:42,135 [main] INFO : Register Page Object Created...
+2025-05-07 12:30:43,020 [main] DEBUG: SignIn/SignUp words Clicked..
+2025-05-07 12:30:43,118 [main] DEBUG: Entered Name ..
+2025-05-07 12:30:43,218 [main] DEBUG: Entered Email ..
+2025-05-07 12:30:43,274 [main] DEBUG: SignUp Button Clicked..
+2025-05-07 12:30:46,661 [main] DEBUG: Entered Password ..
+2025-05-07 12:30:46,722 [main] DEBUG: Entered First Name ..
+2025-05-07 12:30:46,774 [main] DEBUG: Entered Last Name ..
+2025-05-07 12:30:46,824 [main] DEBUG: Entered Company Name ..
+2025-05-07 12:30:46,881 [main] DEBUG: Entered address one ..
+2025-05-07 12:30:46,948 [main] DEBUG: Entered address two ..
+2025-05-07 12:30:46,999 [main] DEBUG: Entered City Field..
+2025-05-07 12:30:47,122 [main] DEBUG: Entered State Field..
+2025-05-07 12:30:47,169 [main] DEBUG: Entered zip code Field..
+2025-05-07 12:30:47,225 [main] DEBUG: Entered Mobile Number Field..
+2025-05-07 12:30:47,293 [main] DEBUG: Register Button Clicked..
+2025-05-07 12:39:24,212 [main] INFO : Register Page Object Created...
+2025-05-07 12:39:25,159 [main] DEBUG: SignIn/SignUp words Clicked..
+2025-05-07 12:39:25,230 [main] DEBUG: Entered Name ..
+2025-05-07 12:39:25,285 [main] DEBUG: Entered Email ..
+2025-05-07 12:39:26,176 [main] DEBUG: SignUp Button Clicked..
+2025-05-07 12:39:42,187 [main] INFO : Register Page Object Created...
+2025-05-07 12:39:45,882 [main] DEBUG: SignIn/SignUp words Clicked..
+2025-05-07 12:39:45,962 [main] DEBUG: Entered Name ..
+2025-05-07 12:39:46,036 [main] DEBUG: Entered Email ..
+2025-05-07 12:39:46,927 [main] DEBUG: SignUp Button Clicked..
+2025-05-07 12:39:49,595 [main] DEBUG: Entered Password ..
+2025-05-07 12:39:49,643 [main] DEBUG: Entered First Name ..
+2025-05-07 12:39:49,696 [main] DEBUG: Entered Last Name ..
+2025-05-07 12:39:49,759 [main] DEBUG: Entered Company Name ..
+2025-05-07 12:39:49,817 [main] DEBUG: Entered address one ..
+2025-05-07 12:39:49,879 [main] DEBUG: Entered address two ..
+2025-05-07 12:39:49,926 [main] DEBUG: Entered City Field..
+2025-05-07 12:39:50,034 [main] DEBUG: Entered State Field..
+2025-05-07 12:39:50,080 [main] DEBUG: Entered zip code Field..
+2025-05-07 12:39:50,134 [main] DEBUG: Entered Mobile Number Field..
+2025-05-07 12:39:50,181 [main] DEBUG: Register Button Clicked..
+2025-05-07 12:39:58,684 [main] DEBUG: Continue Button Clicked..
+2025-05-07 12:43:24,816 [main] INFO : Register Page Object Created...
+2025-05-07 12:43:26,155 [main] DEBUG: SignIn/SignUp words Clicked..
+2025-05-07 12:43:26,227 [main] DEBUG: Entered Name ..
+2025-05-07 12:43:26,277 [main] DEBUG: Entered Email ..
+2025-05-07 12:43:26,378 [main] DEBUG: SignUp Button Clicked..
+2025-05-07 12:43:41,074 [main] INFO : Register Page Object Created...
+2025-05-07 12:43:41,892 [main] DEBUG: SignIn/SignUp words Clicked..
+2025-05-07 12:43:41,957 [main] DEBUG: Entered Name ..
+2025-05-07 12:43:42,003 [main] DEBUG: Entered Email ..
+2025-05-07 12:43:42,126 [main] DEBUG: SignUp Button Clicked..
+2025-05-07 12:43:45,619 [main] DEBUG: Entered Password ..
+2025-05-07 12:43:45,665 [main] DEBUG: Entered First Name ..
+2025-05-07 12:43:45,710 [main] DEBUG: Entered Last Name ..
+2025-05-07 12:43:45,755 [main] DEBUG: Entered Company Name ..
+2025-05-07 12:43:45,812 [main] DEBUG: Entered address one ..
+2025-05-07 12:43:45,875 [main] DEBUG: Entered address two ..
+2025-05-07 12:43:45,922 [main] DEBUG: Entered City Field..
+2025-05-07 12:43:46,024 [main] DEBUG: Entered State Field..
+2025-05-07 12:43:46,069 [main] DEBUG: Entered zip code Field..
+2025-05-07 12:43:46,125 [main] DEBUG: Entered Mobile Number Field..
+2025-05-07 12:43:46,172 [main] DEBUG: Register Button Clicked..
+2025-05-07 12:43:49,010 [main] DEBUG: Continue Button Clicked..
+2025-05-07 12:54:52,967 [main] INFO : Register Page Object Created...
+2025-05-07 12:54:52,992 [main] DEBUG: Home Page is Displayed..
+2025-05-07 12:54:53,808 [main] DEBUG: SignIn/SignUp words Clicked..
+2025-05-07 12:54:53,826 [main] DEBUG: Signup New User is Displayed..
+2025-05-07 12:54:53,874 [main] DEBUG: Entered Name ..
+2025-05-07 12:54:53,948 [main] DEBUG: Entered Email ..
+2025-05-07 12:54:54,047 [main] DEBUG: SignUp Button Clicked..
+2025-05-07 12:56:58,327 [main] INFO : Register Page Object Created...
+2025-05-07 12:56:58,353 [main] DEBUG: Home Page is Displayed..
+2025-05-07 12:56:59,183 [main] DEBUG: SignIn/SignUp words Clicked..
+2025-05-07 12:56:59,207 [main] DEBUG: Signup New User is Displayed..
+2025-05-07 12:56:59,258 [main] DEBUG: Entered Name ..
+2025-05-07 12:56:59,316 [main] DEBUG: Entered Email ..
+2025-05-07 12:57:00,112 [main] DEBUG: SignUp Button Clicked..
+2025-05-07 12:57:18,809 [main] INFO : Register Page Object Created...
+2025-05-07 12:57:18,836 [main] DEBUG: Home Page is Displayed..
+2025-05-07 12:57:20,082 [main] DEBUG: SignIn/SignUp words Clicked..
+2025-05-07 12:57:20,100 [main] DEBUG: Signup New User is Displayed..
+2025-05-07 12:57:20,156 [main] DEBUG: Entered Name ..
+2025-05-07 12:57:20,234 [main] DEBUG: Entered Email ..
+2025-05-07 12:57:20,369 [main] DEBUG: SignUp Button Clicked..
+2025-05-07 12:57:21,062 [main] DEBUG: Address Info is Displayed..
+2025-05-07 12:57:21,107 [main] DEBUG: Female Button is Selected..
+2025-05-07 12:57:21,261 [main] DEBUG: Day is Selected..
+2025-05-07 12:57:21,392 [main] DEBUG: Year is Selected..
+2025-05-07 12:57:21,447 [main] DEBUG: Newsletter is clicked..
+2025-05-07 12:57:21,497 [main] DEBUG: optionRadio is checked..
+2025-05-07 12:57:21,536 [main] DEBUG: Entered Password ..
+2025-05-07 12:57:21,599 [main] DEBUG: Entered First Name ..
+2025-05-07 12:57:21,645 [main] DEBUG: Entered Last Name ..
+2025-05-07 12:57:21,693 [main] DEBUG: Entered Company Name ..
+2025-05-07 12:57:21,746 [main] DEBUG: Entered address one ..
+2025-05-07 12:57:21,807 [main] DEBUG: Entered address two ..
+2025-05-07 12:57:21,853 [main] DEBUG: Entered City Field..
+2025-05-07 12:57:21,910 [main] DEBUG: Country is Selected..
+2025-05-07 12:57:21,957 [main] DEBUG: Entered State Field..
+2025-05-07 12:57:22,004 [main] DEBUG: Entered zip code Field..
+2025-05-07 12:57:22,055 [main] DEBUG: Entered Mobile Number Field..
+2025-05-07 12:57:22,102 [main] DEBUG: Register Button Clicked..
+2025-05-07 12:57:23,242 [main] DEBUG: Account Created is Displayed..
+2025-05-07 12:57:26,406 [main] DEBUG: Continue Button Clicked..
+2025-05-07 12:57:26,428 [main] DEBUG: Logged As User is Displayed..
+2025-05-10 10:43:46,841 [main] INFO : Register Page Object Created...
+2025-05-10 10:43:46,941 [main] DEBUG: Home Page is Displayed..
+2025-05-10 10:43:47,869 [main] DEBUG: SignIn/SignUp words Clicked..
+2025-05-10 10:43:48,357 [main] DEBUG: Signup New User is Displayed..
+2025-05-10 10:43:48,640 [main] DEBUG: Entered Name ..
+2025-05-10 10:43:48,921 [main] DEBUG: Entered Email ..
+2025-05-10 10:43:50,179 [main] DEBUG: SignUp Button Clicked..
+2025-05-10 10:43:50,539 [main] DEBUG: Address Info is Displayed..
+2025-05-10 10:43:50,806 [main] DEBUG: Female Button is Selected..
+2025-05-10 10:43:51,092 [main] DEBUG: Day is Selected..
+2025-05-10 10:43:51,398 [main] DEBUG: Year is Selected..
+2025-05-10 10:43:53,843 [main] DEBUG: Entered Password ..
+2025-05-10 10:43:53,990 [main] DEBUG: Entered First Name ..
+2025-05-10 10:43:54,245 [main] DEBUG: Entered Last Name ..
+2025-05-10 10:43:54,452 [main] DEBUG: Entered Company Name ..
+2025-05-10 10:43:54,674 [main] DEBUG: Entered address one ..
+2025-05-10 10:43:54,907 [main] DEBUG: Entered address two ..
+2025-05-10 10:43:55,107 [main] DEBUG: Entered City Field..
+2025-05-10 10:43:55,329 [main] DEBUG: Country is Selected..
+2025-05-10 10:43:55,535 [main] DEBUG: Entered State Field..
+2025-05-10 10:43:55,673 [main] DEBUG: Entered zip code Field..
+2025-05-10 10:43:55,852 [main] DEBUG: Entered Mobile Number Field..
+2025-05-10 10:43:55,985 [main] DEBUG: Register Button Clicked..
+2025-05-10 10:43:57,855 [main] DEBUG: Account Created is Displayed..
+2025-05-10 10:44:00,329 [main] DEBUG: Continue Button Clicked..
+2025-05-10 10:44:00,365 [main] DEBUG: Logged As User is Displayed..
+2025-05-10 12:14:35,073 [main] INFO : Register Page Object Created...
+2025-05-10 12:14:35,104 [main] DEBUG: Home Page is Displayed..
+2025-05-10 12:14:36,282 [main] DEBUG: SignIn/SignUp words Clicked..
+2025-05-10 12:14:36,302 [main] DEBUG: Signup New User is Displayed..
+2025-05-10 12:14:36,354 [main] DEBUG: Entered Name ..
+2025-05-10 12:14:36,426 [main] DEBUG: Entered Email ..
+2025-05-10 12:14:37,265 [main] DEBUG: SignUp Button Clicked..
+2025-05-10 12:15:32,977 [main] INFO : Login Page Object Created...
+2025-05-10 12:15:33,012 [main] DEBUG: Home Page is Displayed..
+2025-05-10 12:15:34,117 [main] DEBUG: SignIn/SignUp Button Clicked..
+2025-05-10 12:15:34,137 [main] DEBUG: Login Page is Displayed..
+2025-05-10 12:15:34,206 [main] DEBUG: Entered Email ..
+2025-05-10 12:15:34,288 [main] DEBUG: Entered Password ..
+2025-05-10 12:15:34,346 [main] DEBUG: Login Button Clicked..
+2025-05-10 12:15:37,436 [main] DEBUG: Delete button Clicked..
+2025-05-10 12:15:37,457 [main] DEBUG: Account Deleted is Displayed..
+2025-05-10 12:16:36,004 [main] INFO : Login Page Object Created...
+2025-05-10 12:16:36,035 [main] DEBUG: Home Page is Displayed..
+2025-05-10 12:16:37,635 [main] DEBUG: SignIn/SignUp Button Clicked..
+2025-05-10 12:16:37,652 [main] DEBUG: Login Page is Displayed..
+2025-05-10 12:16:37,715 [main] DEBUG: Entered Email ..
+2025-05-10 12:16:37,789 [main] DEBUG: Entered Password ..
+2025-05-10 12:16:37,836 [main] DEBUG: Login Button Clicked..
+2025-05-10 12:16:40,387 [main] DEBUG: Login As Link is Displayed..
+2025-05-10 12:16:41,228 [main] DEBUG: Delete button Clicked..
+2025-05-10 12:16:41,247 [main] DEBUG: Account Deleted is Displayed..
+2025-05-10 12:18:20,136 [main] INFO : Login Page Object Created...
+2025-05-10 12:18:20,172 [main] DEBUG: Home Page is Displayed..
+2025-05-10 12:18:21,028 [main] DEBUG: SignIn/SignUp Button Clicked..
+2025-05-10 12:18:21,046 [main] DEBUG: Login Page is Displayed..
+2025-05-10 12:18:21,098 [main] DEBUG: Entered Email ..
+2025-05-10 12:18:21,236 [main] DEBUG: Entered Password ..
+2025-05-10 12:18:21,287 [main] DEBUG: Login Button Clicked..
+2025-05-10 12:18:22,871 [main] DEBUG: Delete button Clicked..
+2025-05-10 12:18:22,892 [main] DEBUG: Account Deleted is Displayed..
+2025-05-10 12:21:37,975 [main] INFO : Login Page Object Created...
+2025-05-10 12:21:38,010 [main] DEBUG: Home Page is Displayed..
+2025-05-10 12:21:38,703 [main] DEBUG: SignIn/SignUp Button Clicked..
+2025-05-10 12:21:38,721 [main] DEBUG: Login Page is Displayed..
+2025-05-10 12:21:38,775 [main] DEBUG: Entered Email ..
+2025-05-10 12:21:38,916 [main] DEBUG: Entered Password ..
+2025-05-10 12:21:38,966 [main] DEBUG: Login Button Clicked..
+2025-05-10 12:24:04,549 [main] INFO : Register Page Object Created...
+2025-05-10 12:24:04,585 [main] DEBUG: Home Page is Displayed..
+2025-05-10 12:24:05,457 [main] DEBUG: SignIn/SignUp words Clicked..
+2025-05-10 12:24:05,475 [main] DEBUG: Signup New User is Displayed..
+2025-05-10 12:24:05,526 [main] DEBUG: Entered Name ..
+2025-05-10 12:24:05,696 [main] DEBUG: Entered Email ..
+2025-05-10 12:24:05,747 [main] DEBUG: SignUp Button Clicked..
+2025-05-10 12:24:06,655 [main] DEBUG: Address Info is Displayed..
+2025-05-10 12:24:06,703 [main] DEBUG: Female Button is Selected..
+2025-05-10 12:24:06,888 [main] DEBUG: Day is Selected..
+2025-05-10 12:24:07,050 [main] DEBUG: Year is Selected..
+2025-05-10 12:24:09,410 [main] DEBUG: Entered Password ..
+2025-05-10 12:24:09,458 [main] DEBUG: Entered First Name ..
+2025-05-10 12:24:09,504 [main] DEBUG: Entered Last Name ..
+2025-05-10 12:24:09,551 [main] DEBUG: Entered Company Name ..
+2025-05-10 12:24:09,608 [main] DEBUG: Entered address one ..
+2025-05-10 12:24:09,672 [main] DEBUG: Entered address two ..
+2025-05-10 12:24:09,719 [main] DEBUG: Entered City Field..
+2025-05-10 12:24:09,776 [main] DEBUG: Country is Selected..
+2025-05-10 12:24:09,826 [main] DEBUG: Entered State Field..
+2025-05-10 12:24:09,872 [main] DEBUG: Entered zip code Field..
+2025-05-10 12:24:09,937 [main] DEBUG: Entered Mobile Number Field..
+2025-05-10 12:24:09,995 [main] DEBUG: Register Button Clicked..
+2025-05-10 12:24:11,222 [main] DEBUG: Account Created is Displayed..
+2025-05-10 12:24:13,299 [main] DEBUG: Continue Button Clicked..
+2025-05-10 12:24:13,326 [main] DEBUG: Logged As User is Displayed..
+2025-05-10 12:29:32,362 [main] INFO : Login Page Object Created...
+2025-05-10 12:29:32,389 [main] DEBUG: Home Page is Displayed..
+2025-05-10 12:29:33,484 [main] DEBUG: SignIn/SignUp Button Clicked..
+2025-05-10 12:29:33,502 [main] DEBUG: Login Page is Displayed..
+2025-05-10 12:29:33,559 [main] DEBUG: Entered Email ..
+2025-05-10 12:29:33,643 [main] DEBUG: Entered Password ..
+2025-05-10 12:29:33,768 [main] DEBUG: Login Button Clicked..
+2025-05-10 12:29:37,362 [main] DEBUG: Login As Link is Displayed..
+2025-05-10 12:29:38,149 [main] DEBUG: Logout Button Clicked..
+2025-05-10 12:29:38,165 [main] DEBUG: Login Page is Displayed..
+2025-05-10 12:36:07,605 [main] INFO : Register Page Object Created...
+2025-05-10 12:36:07,633 [main] DEBUG: Home Page is Displayed..
+2025-05-10 12:36:08,497 [main] DEBUG: SignIn/SignUp words Clicked..
+2025-05-10 12:36:08,518 [main] DEBUG: Signup New User is Displayed..
+2025-05-10 12:36:08,584 [main] DEBUG: Entered Name ..
+2025-05-10 12:36:08,635 [main] DEBUG: Entered Email ..
+2025-05-10 12:36:08,760 [main] DEBUG: SignUp Button Clicked..
+2025-05-10 15:06:38,027 [main] INFO : ContactUs Page Object Created...
+2025-05-10 15:06:38,916 [main] DEBUG: Contact Us Button Clicked..
+2025-05-10 15:06:38,939 [main] DEBUG: Contact Us Page is Displayed..
+2025-05-10 15:06:38,992 [main] DEBUG: Entered Name ..
+2025-05-10 15:06:39,246 [main] DEBUG: Entered Email ..
+2025-05-10 15:06:39,296 [main] DEBUG: Entered Subject ..
+2025-05-10 15:06:39,360 [main] DEBUG: Entered Message ..
+2025-05-10 15:06:39,382 [main] DEBUG: Entered File ..
+2025-05-10 15:08:32,841 [main] INFO : ContactUs Page Object Created...
+2025-05-10 15:08:35,941 [main] DEBUG: Contact Us Button Clicked..
+2025-05-10 15:08:35,966 [main] DEBUG: Contact Us Page is Displayed..
+2025-05-10 15:08:36,108 [main] DEBUG: Entered Name ..
+2025-05-10 15:08:36,163 [main] DEBUG: Entered Email ..
+2025-05-10 15:08:36,230 [main] DEBUG: Entered Subject ..
+2025-05-10 15:08:36,290 [main] DEBUG: Entered Message ..
+2025-05-10 15:08:36,315 [main] DEBUG: Entered File ..
+2025-05-10 15:08:36,334 [main] DEBUG: Submit Button Clicked..
+2025-05-10 15:08:36,353 [main] DEBUG: Alert is Displayed..
+2025-05-10 15:10:40,115 [main] INFO : ContactUs Page Object Created...
+2025-05-10 15:10:41,025 [main] DEBUG: Contact Us Button Clicked..
+2025-05-10 15:10:41,048 [main] DEBUG: Contact Us Page is Displayed..
+2025-05-10 15:10:41,275 [main] DEBUG: Entered Name ..
+2025-05-10 15:10:41,330 [main] DEBUG: Entered Email ..
+2025-05-10 15:10:41,378 [main] DEBUG: Entered Subject ..
+2025-05-10 15:10:41,437 [main] DEBUG: Entered Message ..
+2025-05-10 15:10:41,465 [main] DEBUG: Entered File ..
+2025-05-10 15:10:41,485 [main] DEBUG: Submit Button Clicked..
+2025-05-10 15:10:41,500 [main] DEBUG: Alert is Displayed..
+2025-05-10 15:10:41,644 [main] DEBUG:  Success Message is Displayed..
+2025-05-10 15:10:44,914 [main] DEBUG: Home Button Clicked..
+2025-05-10 15:12:36,348 [main] INFO : ContactUs Page Object Created...
+2025-05-10 15:12:37,236 [main] DEBUG: Contact Us Button Clicked..
+2025-05-10 15:12:37,263 [main] DEBUG: Contact Us Page is Displayed..
+2025-05-10 15:12:37,325 [main] DEBUG: Entered Name ..
+2025-05-10 15:12:37,427 [main] DEBUG: Entered Email ..
+2025-05-10 15:12:37,483 [main] DEBUG: Entered Subject ..
+2025-05-10 15:12:37,540 [main] DEBUG: Entered Message ..
+2025-05-10 15:12:37,567 [main] DEBUG: Entered File ..
+2025-05-10 15:12:37,586 [main] DEBUG: Submit Button Clicked..
+2025-05-10 15:12:37,599 [main] DEBUG: Alert is Displayed..
+2025-05-10 15:12:37,623 [main] DEBUG:  Success Message is Displayed..
+2025-05-10 15:12:40,680 [main] DEBUG: Home Button Clicked..
+2025-05-10 15:29:37,832 [main] INFO : Test Cases Page Object Created...
+2025-05-10 15:29:37,861 [main] DEBUG: Home Page is Displayed..
+2025-05-10 15:29:40,051 [main] DEBUG: Test Cases Button Clicked..
+2025-05-10 15:29:40,072 [main] DEBUG: Test Cases Page is Displayed..
+2025-05-10 15:57:54,819 [main] INFO : Products Page Object Created...
+2025-05-10 15:57:54,939 [main] DEBUG: Home Page is Displayed..
+2025-05-10 15:57:58,719 [main] DEBUG: Products Button Clicked..
+2025-05-10 15:57:58,799 [main] DEBUG: All Products Page is Displayed..
+2025-05-10 16:00:23,758 [main] INFO : Products Page Object Created...
+2025-05-10 16:00:23,845 [main] DEBUG: Home Page is Displayed..
+2025-05-10 16:00:27,212 [main] DEBUG: Products Button Clicked..
+2025-05-10 16:00:27,482 [main] DEBUG: All Products Page is Displayed..
+2025-05-10 16:01:50,799 [main] INFO : Products Page Object Created...
+2025-05-10 16:01:50,899 [main] DEBUG: Home Page is Displayed..
+2025-05-10 16:01:57,946 [main] DEBUG: Products Button Clicked..
+2025-05-10 16:01:58,004 [main] DEBUG: All Products Page is Displayed..
+2025-05-11 09:21:52,338 [main] INFO : Products Page Object Created...
+2025-05-11 09:21:52,369 [main] DEBUG: Home Page is Displayed..
+2025-05-11 09:21:57,761 [main] DEBUG: Products Button Clicked..
+2025-05-11 09:21:57,798 [main] DEBUG: All Products Page is Displayed..
+2025-05-11 09:25:03,934 [main] INFO : Products Page Object Created...
+2025-05-11 09:25:03,972 [main] DEBUG: Home Page is Displayed..
+2025-05-11 09:25:05,120 [main] INFO : Products Page Object Created...
+2025-05-11 09:25:05,178 [main] DEBUG: Home Page is Displayed..
+2025-05-11 09:25:07,683 [main] DEBUG: Products Button Clicked..
+2025-05-11 09:25:07,736 [main] DEBUG: All Products Page is Displayed..
+2025-05-11 09:25:08,671 [main] DEBUG: Products Button Clicked..
+2025-05-11 09:25:08,701 [main] DEBUG: All Products Page is Displayed..
+2025-05-11 09:25:27,265 [main] INFO : Products Page Object Created...
+2025-05-11 09:25:27,330 [main] DEBUG: Home Page is Displayed..
+2025-05-11 09:25:30,302 [main] DEBUG: Products Button Clicked..
+2025-05-11 09:25:30,334 [main] DEBUG: All Products Page is Displayed..
+2025-05-11 09:30:14,709 [main] INFO : Products Page Object Created...
+2025-05-11 09:30:14,759 [main] DEBUG: Home Page is Displayed..
+2025-05-11 09:30:18,006 [main] DEBUG: Products Button Clicked..
+2025-05-11 09:30:18,024 [main] DEBUG: All Products Page is Displayed..
+2025-05-11 09:36:16,905 [main] INFO : Products Page Object Created...
+2025-05-11 09:36:16,935 [main] DEBUG: Home Page is Displayed..
+2025-05-11 09:36:19,352 [main] DEBUG: Products Button Clicked..
+2025-05-11 09:36:19,377 [main] DEBUG: All Products Page is Displayed..
