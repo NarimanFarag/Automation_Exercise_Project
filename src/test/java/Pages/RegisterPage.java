@@ -11,9 +11,9 @@ import org.testng.Assert;
 import io.qameta.allure.*;
 
 public class RegisterPage {
+
     private static final Logger logger = LogManager.getLogger(RegisterPage.class);
     WebDriver driver;
-
 
     @FindBy(id = "id_gender1")
     WebElement selectMale;
@@ -96,12 +96,8 @@ public class RegisterPage {
     @FindBy(css = "#form > div > div > div > div > a")
     WebElement continueButton;
 
-
     @FindBy(css = "#header > div > div > div > div.col-sm-8 > div > ul > li:nth-child(10) > a")
     WebElement loggedAsUser;
-
-
-
 
     @FindBy(css = " #form > div > div > div:nth-child(3) > div > form > p")
     WebElement emailExistedMessage;

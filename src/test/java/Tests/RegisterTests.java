@@ -1,9 +1,7 @@
 package Tests;
 
 import Pages.RegisterPage;
-import Utillis.BaseTests;
 import org.testng.annotations.Test;
-import io.qameta.allure.*;
 
 
 public class RegisterTests extends BaseTests
@@ -16,7 +14,7 @@ public class RegisterTests extends BaseTests
         registerPage.clickOnSignInSignUp();
         registerPage.newUserSignupVisibility();
         registerPage.enterName("Nariman");
-        registerPage.enterEmail("narimanfarag71@gmail.com");
+        registerPage.enterEmail("narimanfarag81@gmail.com");
         registerPage.clickOnSignUp();
         registerPage.addressInfoVisibility();
         registerPage.selectFemaleButton();
@@ -61,8 +59,6 @@ public class RegisterTests extends BaseTests
         registerPage.enterEmail("narimanfarag71@gmail.com");
         registerPage.clickOnSignUp();
         registerPage.emailExistedMessageVisibility();
-
-
 
     }
 }

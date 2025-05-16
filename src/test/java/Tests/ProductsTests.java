@@ -1,7 +1,6 @@
 package Tests;
 
 import Pages.ProductsPage;
-import Utillis.BaseTests;
 import org.testng.annotations.Test;
 
 public class ProductsTests  extends BaseTests
@@ -15,5 +14,18 @@ public class ProductsTests  extends BaseTests
         productsPage.checkAllProductsVisibility();
         productsPage.clickOnViewProduct();
         productsPage.checkProductInfoVisibility();
+    }
+
+    @Test
+    public void searchProduct()
+    {
+        ProductsPage productsPage = new ProductsPage(chromeDriver);
+        productsPage.checkHomeVisibility();
+        productsPage.clickOnProducts();
+        productsPage.checkAllProductsVisibility();
+        productsPage.enterSearchInput("Blue Top");
+        productsPage.checkProductInfoVisibility();
+        productsPage.clickOnSearchButton();
+        productsPage.checkReturnedProductsFromSearch();
     }
 }

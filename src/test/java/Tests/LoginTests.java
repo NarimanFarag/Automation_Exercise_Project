@@ -1,7 +1,6 @@
 package Tests;
 
 import Pages.LoginPage;
-import Utillis.BaseTests;
 import org.testng.annotations.Test;
 
 public class LoginTests extends BaseTests

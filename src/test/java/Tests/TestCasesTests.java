@@ -1,7 +1,6 @@
 package Tests;
 
 import Pages.TestCasesPage;
-import Utillis.BaseTests;
 import org.testng.annotations.Test;
 
 public class TestCasesTests extends BaseTests

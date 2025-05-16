@@ -1,8 +1,6 @@
 package Tests;
 
 import Pages.ContactUsPage;
-import Utillis.BaseTests;
-import org.openqa.selenium.Alert;
 import org.testng.annotations.Test;
 
 public class ContactUsTests extends BaseTests
