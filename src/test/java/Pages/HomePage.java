@@ -18,6 +18,9 @@ public class HomePage
     @FindBy(xpath = "//*[@id=\"footer\"]/div[1]/div/div/div[2]/div/h2")
     WebElement subscriptionWord;
 
+    @FindBy(css = ".navbar-nav > li:nth-child(4) > a:nth-child(1)")
+    WebElement signInSignUp;
+
     @FindBy(id = "susbscribe_email")
     WebElement subscribeEmail;
 
@@ -48,6 +51,20 @@ public class HomePage
             logger.trace("Error Exception :Scroll down in Home Page", e);
         }
 
+    }
+
+    public void checkHomeVisibility()
+    {
+        try
+        {
+            logger.trace("Trying to Check Visibility of Home Page");
+            Assert.assertTrue(signInSignUp.isDisplayed());
+            logger.debug("Home Page is Displayed..");
+        }
+        catch (Exception e)
+        {
+            logger.trace("Error Exception : Home Page is not displayed", e);
+        }
     }
 
     public void checkSubVisibility()

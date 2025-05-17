@@ -1,5 +1,8 @@
 package Pages;
 
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
@@ -28,25 +31,17 @@ public class LoginPage
     @FindBy(css = "button.btn:nth-child(4)")
     WebElement loginButton;
 
-
     @FindBy(css = ".navbar-nav > li:nth-child(10) > a:nth-child(1)")
     WebElement loginAsVisible;
-
-
 
     @FindBy(css = " .navbar-nav > li:nth-child(5) > a:nth-child(1)")
     WebElement deleteButton;
 
-
-
     @FindBy(css = ".title > b:nth-child(1)")
     WebElement accountDeleted;
 
-
     @FindBy(css = "#form > div > div > div.col-sm-4.col-sm-offset-1 > div > form > p")
     WebElement incorrectMessage;
-
-
 
     @FindBy(css = "    #header > div > div > div > div.col-sm-8 > div > ul > li:nth-child(4) > a")
     WebElement logoutButton;
@@ -59,6 +54,7 @@ public class LoginPage
         logger.info("Login Page Object Created...");
     }
 
+    @Given("user in home page")
     public void checkHomeVisibility()
     {
         try
@@ -73,6 +69,7 @@ public class LoginPage
         }
     }
 
+    @Given("user clicked on signIn signUp")
     public void clickOnSignInSignUp()
     {
         try
@@ -85,6 +82,7 @@ public class LoginPage
         }
     }
 
+    @Given("user redirected to login page")
     public void checkLoginVisibility()
     {
         try
@@ -99,6 +97,21 @@ public class LoginPage
         }
     }
 
+    @When("user enter valid email")
+    public void enterEmail(String usEmail)
+    {
+        try
+        {
+            logger.trace("Trying to Find Email Field");
+            emailField.sendKeys(usEmail);
+            logger.debug("Entered Email ..");
+        }
+        catch (Exception e)
+        {
+            logger.trace("Error Exception in Email Field ", e);
+        }
+    }
+    @When("user enter valid password")
     public void enterPassword(String usPassword)
     {
         try
@@ -113,20 +126,9 @@ public class LoginPage
         }
     }
 
-    public void enterEmail(String usEmail)
-    {
-        try
-        {
-            logger.trace("Trying to Find Email Field");
-            emailField.sendKeys(usEmail);
-            logger.debug("Entered Email ..");
-        }
-        catch (Exception e)
-        {
-            logger.trace("Error Exception in Email Field ", e);
-        }
-    }
 
+
+    @When("user clicked on login button")
     public void clickOnLogin()
     {
         try
@@ -142,6 +144,7 @@ public class LoginPage
 
     }
 
+    @Then("user login successfully")
     public void checkLoginAsVisibility()
     {
         try
@@ -212,5 +215,22 @@ public class LoginPage
         }
 
     }
+    public void UserLogin(String Email,String Pass)
+    {
+        enterEmail(Email);
+        enterPassword(Pass);
+        clickOnLogin();
+    }
 
+    public void CheckDeleteFun()
+    {
+        clickOnDelete();
+        checkAccountDeletedVisibility();
+    }
+
+    public void UserLogout()
+    {
+        clickOnLogout();
+        checkLoginVisibility();
+    }
 }

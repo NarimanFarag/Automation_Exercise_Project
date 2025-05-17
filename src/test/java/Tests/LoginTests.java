@@ -1,5 +1,6 @@
 package Tests;
 
+import Pages.HomePage;
 import Pages.LoginPage;
 import org.testng.annotations.Test;
 
@@ -9,29 +10,27 @@ public class LoginTests extends BaseTests
     public void testValidLogin()
     {
         LoginPage loginPage = new LoginPage(chromeDriver);
+        HomePage homePage = new HomePage(chromeDriver);
 
-        loginPage.checkHomeVisibility();
+        homePage.checkHomeVisibility();
+//      loginPage.checkHomeVisibility();
         loginPage.clickOnSignInSignUp();
         loginPage.checkLoginVisibility();
-        loginPage.enterEmail("narimanfarag41@gmail.com");
-        loginPage.enterPassword("123456");
-        loginPage.clickOnLogin();
+        loginPage.UserLogin("narimanfarag51@gmail.com","123456");
         loginPage.checkLoginAsVisibility();
-        loginPage.clickOnDelete();
-        loginPage.checkAccountDeletedVisibility();
+        loginPage.CheckDeleteFun();
     }
 
     @Test
     public void testInvalidLogin()
     {
         LoginPage loginPage = new LoginPage(chromeDriver);
+        HomePage homePage = new HomePage(chromeDriver);
 
-        loginPage.checkHomeVisibility();
+        homePage.checkHomeVisibility();
         loginPage.clickOnSignInSignUp();
         loginPage.checkLoginVisibility();
-        loginPage.enterEmail("narimanfarag41@gmail.com");
-        loginPage.enterPassword("123456");
-        loginPage.clickOnLogin();
+        loginPage.UserLogin("narimanfarag51@gmail.com","123456");
         loginPage.checkIncorrectMessageVisibility();
     }
 
@@ -39,16 +38,14 @@ public class LoginTests extends BaseTests
     public void testLogout()
     {
         LoginPage loginPage = new LoginPage(chromeDriver);
+        HomePage homePage = new HomePage(chromeDriver);
 
-        loginPage.checkHomeVisibility();
+        homePage.checkHomeVisibility();
         loginPage.clickOnSignInSignUp();
         loginPage.checkLoginVisibility();
-        loginPage.enterEmail("narimanfarag71@gmail.com");
-        loginPage.enterPassword("123456");
-        loginPage.clickOnLogin();
+        loginPage.UserLogin("narimanfarag51@gmail.com","123456");
         loginPage.checkLoginAsVisibility();
-        loginPage.clickOnLogout();
-        loginPage.checkLoginVisibility();
+        loginPage.UserLogout();
     }
 
 }

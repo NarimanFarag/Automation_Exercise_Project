@@ -323,3 +323,300 @@
 2025-05-11 09:36:16,935 [main] DEBUG: Home Page is Displayed..
 2025-05-11 09:36:19,352 [main] DEBUG: Products Button Clicked..
 2025-05-11 09:36:19,377 [main] DEBUG: All Products Page is Displayed..
+2025-05-16 23:52:48,349 [main] INFO : Login Page Object Created...
+2025-05-16 23:52:48,354 [main] INFO : Products Page Object Created...
+2025-05-16 23:52:48,383 [main] DEBUG: Home Page is Displayed..
+2025-05-16 23:53:29,889 [main] INFO : Login Page Object Created...
+2025-05-16 23:57:25,369 [main] INFO : Login Page Object Created...
+2025-05-16 23:57:25,374 [main] INFO : Products Page Object Created...
+2025-05-16 23:57:25,403 [main] DEBUG: Home Page is Displayed..
+2025-05-16 23:57:26,795 [main] DEBUG: SignIn/SignUp Button Clicked..
+2025-05-16 23:57:26,815 [main] DEBUG: Login Page is Displayed..
+2025-05-16 23:57:26,867 [main] DEBUG: Entered Email ..
+2025-05-16 23:57:26,904 [main] DEBUG: Entered Password ..
+2025-05-16 23:57:27,922 [main] DEBUG: Login Button Clicked..
+2025-05-16 23:57:29,622 [main] DEBUG: Delete button Clicked..
+2025-05-16 23:57:29,641 [main] DEBUG: Account Deleted is Displayed..
+2025-05-17 10:44:06,084 [main] INFO : Login Page Object Created...
+2025-05-17 10:44:06,088 [main] INFO : Products Page Object Created...
+2025-05-17 10:44:06,088 [main] DEBUG: User is on the home page
+2025-05-17 10:44:06,091 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 10:44:06,091 [main] DEBUG: user redirected to login page
+2025-05-17 10:44:06,092 [main] DEBUG: user enter valid Email and Password
+2025-05-17 10:44:06,149 [main] INFO : Login Page Object Created...
+2025-05-17 10:44:06,149 [main] INFO : Products Page Object Created...
+2025-05-17 10:44:06,149 [main] DEBUG: User is on the home page
+2025-05-17 10:44:06,150 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 10:44:06,150 [main] DEBUG: user redirected to login page
+2025-05-17 10:44:06,150 [main] DEBUG: user enter valid Email and Password
+2025-05-17 10:45:00,710 [main] INFO : Login Page Object Created...
+2025-05-17 10:45:00,714 [main] INFO : Products Page Object Created...
+2025-05-17 10:45:00,714 [main] DEBUG: User is on the home page
+2025-05-17 10:45:00,716 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 10:45:00,716 [main] DEBUG: user redirected to login page
+2025-05-17 10:45:00,718 [main] DEBUG: user enter valid Email and Password
+2025-05-17 10:45:00,782 [main] INFO : Login Page Object Created...
+2025-05-17 10:45:00,783 [main] INFO : Products Page Object Created...
+2025-05-17 10:45:00,783 [main] DEBUG: User is on the home page
+2025-05-17 10:45:00,783 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 10:45:00,784 [main] DEBUG: user redirected to login page
+2025-05-17 10:45:00,784 [main] DEBUG: user enter valid Email and Password
+2025-05-17 10:52:17,049 [main] INFO : Login Page Object Created...
+2025-05-17 10:52:17,053 [main] INFO : Products Page Object Created...
+2025-05-17 10:52:17,053 [main] DEBUG: User is on the home page
+2025-05-17 10:52:17,056 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 10:52:17,056 [main] DEBUG: user redirected to login page
+2025-05-17 10:52:17,057 [main] DEBUG: user enter valid Email and Password
+2025-05-17 10:52:17,117 [main] INFO : Login Page Object Created...
+2025-05-17 10:52:17,117 [main] INFO : Products Page Object Created...
+2025-05-17 10:52:17,117 [main] DEBUG: User is on the home page
+2025-05-17 10:52:17,118 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 10:52:17,118 [main] DEBUG: user redirected to login page
+2025-05-17 10:52:17,118 [main] DEBUG: user enter valid Email and Password
+2025-05-17 10:52:55,318 [main] INFO : Login Page Object Created...
+2025-05-17 10:52:55,321 [main] INFO : Products Page Object Created...
+2025-05-17 10:52:55,322 [main] DEBUG: User is on the home page
+2025-05-17 10:52:55,324 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 10:52:55,324 [main] DEBUG: user redirected to login page
+2025-05-17 10:52:55,325 [main] DEBUG: user enter valid Email and Password
+2025-05-17 10:52:55,382 [main] INFO : Login Page Object Created...
+2025-05-17 10:52:55,382 [main] INFO : Products Page Object Created...
+2025-05-17 10:52:55,382 [main] DEBUG: User is on the home page
+2025-05-17 10:52:55,383 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 10:52:55,383 [main] DEBUG: user redirected to login page
+2025-05-17 10:52:55,383 [main] DEBUG: user enter valid Email and Password
+2025-05-17 10:53:55,600 [main] INFO : Login Page Object Created...
+2025-05-17 10:53:55,604 [main] INFO : Products Page Object Created...
+2025-05-17 10:53:55,604 [main] DEBUG: User is on the home page
+2025-05-17 10:53:55,606 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 10:53:55,606 [main] DEBUG: user redirected to login page
+2025-05-17 10:53:55,607 [main] DEBUG: user enter valid Email and Password
+2025-05-17 10:53:55,662 [main] INFO : Login Page Object Created...
+2025-05-17 10:53:55,663 [main] INFO : Products Page Object Created...
+2025-05-17 10:53:55,663 [main] DEBUG: User is on the home page
+2025-05-17 10:53:55,663 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 10:53:55,663 [main] DEBUG: user redirected to login page
+2025-05-17 10:53:55,664 [main] DEBUG: user enter valid Email and Password
+2025-05-17 10:54:43,871 [main] INFO : Register Page Object Created...
+2025-05-17 10:54:43,874 [main] INFO : Products Page Object Created...
+2025-05-17 10:54:43,910 [main] DEBUG: Home Page is Displayed..
+2025-05-17 10:54:45,314 [main] DEBUG: SignIn/SignUp words Clicked..
+2025-05-17 10:54:45,332 [main] DEBUG: Signup New User is Displayed..
+2025-05-17 10:54:45,384 [main] DEBUG: Entered Name ..
+2025-05-17 10:54:45,489 [main] DEBUG: Entered Email ..
+2025-05-17 10:54:45,546 [main] DEBUG: SignUp Button Clicked..
+2025-05-17 10:55:06,116 [main] INFO : Register Page Object Created...
+2025-05-17 10:55:06,119 [main] INFO : Products Page Object Created...
+2025-05-17 10:55:06,153 [main] DEBUG: Home Page is Displayed..
+2025-05-17 10:55:07,167 [main] DEBUG: SignIn/SignUp words Clicked..
+2025-05-17 10:55:07,185 [main] DEBUG: Signup New User is Displayed..
+2025-05-17 10:55:07,238 [main] DEBUG: Entered Name ..
+2025-05-17 10:55:07,346 [main] DEBUG: Entered Email ..
+2025-05-17 10:55:07,400 [main] DEBUG: SignUp Button Clicked..
+2025-05-17 10:55:09,070 [main] DEBUG: Female Button is Selected..
+2025-05-17 10:55:09,247 [main] DEBUG: Day is Selected..
+2025-05-17 10:55:09,373 [main] DEBUG: Year is Selected..
+2025-05-17 10:55:11,554 [main] DEBUG: Entered Password ..
+2025-05-17 10:55:11,600 [main] DEBUG: Entered First Name ..
+2025-05-17 10:55:11,647 [main] DEBUG: Entered Last Name ..
+2025-05-17 10:55:11,703 [main] DEBUG: Entered Company Name ..
+2025-05-17 10:55:11,784 [main] DEBUG: Entered address one ..
+2025-05-17 10:55:11,833 [main] DEBUG: Entered address two ..
+2025-05-17 10:55:11,881 [main] DEBUG: Entered City Field..
+2025-05-17 10:55:11,964 [main] DEBUG: Country is Selected..
+2025-05-17 10:55:12,006 [main] DEBUG: Entered State Field..
+2025-05-17 10:55:12,046 [main] DEBUG: Entered zip code Field..
+2025-05-17 10:55:12,090 [main] DEBUG: Entered Mobile Number Field..
+2025-05-17 10:55:12,137 [main] DEBUG: Register Button Clicked..
+2025-05-17 10:57:20,554 [main] INFO : Register Page Object Created...
+2025-05-17 10:57:20,558 [main] INFO : Products Page Object Created...
+2025-05-17 10:57:20,597 [main] DEBUG: Home Page is Displayed..
+2025-05-17 10:57:22,036 [main] DEBUG: SignIn/SignUp words Clicked..
+2025-05-17 10:57:22,054 [main] DEBUG: Signup New User is Displayed..
+2025-05-17 10:57:22,104 [main] DEBUG: Entered Name ..
+2025-05-17 10:57:22,189 [main] DEBUG: Entered Email ..
+2025-05-17 10:57:22,241 [main] DEBUG: SignUp Button Clicked..
+2025-05-17 10:57:23,132 [main] DEBUG: Address Info is Displayed..
+2025-05-17 10:57:23,297 [main] DEBUG: Female Button is Selected..
+2025-05-17 10:57:23,384 [main] DEBUG: Day is Selected..
+2025-05-17 10:57:23,573 [main] DEBUG: Year is Selected..
+2025-05-17 10:57:23,632 [main] DEBUG: Newsletter is clicked..
+2025-05-17 10:57:23,815 [main] DEBUG: optionRadio is checked..
+2025-05-17 10:57:23,855 [main] DEBUG: Entered Password ..
+2025-05-17 10:57:23,906 [main] DEBUG: Entered First Name ..
+2025-05-17 10:57:23,948 [main] DEBUG: Entered Last Name ..
+2025-05-17 10:57:24,003 [main] DEBUG: Entered Company Name ..
+2025-05-17 10:57:24,053 [main] DEBUG: Entered address one ..
+2025-05-17 10:57:24,111 [main] DEBUG: Entered address two ..
+2025-05-17 10:57:24,157 [main] DEBUG: Entered City Field..
+2025-05-17 10:57:24,222 [main] DEBUG: Country is Selected..
+2025-05-17 10:57:24,287 [main] DEBUG: Entered State Field..
+2025-05-17 10:57:24,339 [main] DEBUG: Entered zip code Field..
+2025-05-17 10:57:24,398 [main] DEBUG: Entered Mobile Number Field..
+2025-05-17 10:57:24,444 [main] DEBUG: Register Button Clicked..
+2025-05-17 10:57:25,565 [main] DEBUG: Account Created is Displayed..
+2025-05-17 10:57:29,160 [main] DEBUG: Continue Button Clicked..
+2025-05-17 10:57:29,182 [main] DEBUG: Logged As User is Displayed..
+2025-05-17 10:58:14,985 [main] INFO : Register Page Object Created...
+2025-05-17 10:58:14,989 [main] INFO : Products Page Object Created...
+2025-05-17 10:58:15,031 [main] DEBUG: Home Page is Displayed..
+2025-05-17 10:58:15,783 [main] DEBUG: SignIn/SignUp words Clicked..
+2025-05-17 10:58:15,801 [main] DEBUG: Signup New User is Displayed..
+2025-05-17 10:58:15,846 [main] DEBUG: Entered Name ..
+2025-05-17 10:58:15,988 [main] DEBUG: Entered Email ..
+2025-05-17 10:58:16,040 [main] DEBUG: SignUp Button Clicked..
+2025-05-17 10:58:16,954 [main] DEBUG: Address Info is Displayed..
+2025-05-17 10:58:16,999 [main] DEBUG: Female Button is Selected..
+2025-05-17 10:58:17,172 [main] DEBUG: Day is Selected..
+2025-05-17 10:58:17,298 [main] DEBUG: Year is Selected..
+2025-05-17 10:58:19,550 [main] DEBUG: Entered Password ..
+2025-05-17 10:58:19,596 [main] DEBUG: Entered First Name ..
+2025-05-17 10:58:19,639 [main] DEBUG: Entered Last Name ..
+2025-05-17 10:58:19,686 [main] DEBUG: Entered Company Name ..
+2025-05-17 10:58:19,738 [main] DEBUG: Entered address one ..
+2025-05-17 10:58:19,796 [main] DEBUG: Entered address two ..
+2025-05-17 10:58:19,843 [main] DEBUG: Entered City Field..
+2025-05-17 10:58:19,900 [main] DEBUG: Country is Selected..
+2025-05-17 10:58:19,945 [main] DEBUG: Entered State Field..
+2025-05-17 10:58:19,988 [main] DEBUG: Entered zip code Field..
+2025-05-17 10:58:20,040 [main] DEBUG: Entered Mobile Number Field..
+2025-05-17 10:58:21,292 [main] DEBUG: Register Button Clicked..
+2025-05-17 10:58:21,312 [main] DEBUG: Account Created is Displayed..
+2025-05-17 10:58:29,989 [main] DEBUG: Continue Button Clicked..
+2025-05-17 10:58:30,010 [main] DEBUG: Logged As User is Displayed..
+2025-05-17 10:58:36,292 [main] INFO : Login Page Object Created...
+2025-05-17 10:58:36,295 [main] INFO : Products Page Object Created...
+2025-05-17 10:58:36,296 [main] DEBUG: User is on the home page
+2025-05-17 10:58:36,298 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 10:58:36,298 [main] DEBUG: user redirected to login page
+2025-05-17 10:58:36,300 [main] DEBUG: user enter valid Email and Password
+2025-05-17 10:58:36,360 [main] INFO : Login Page Object Created...
+2025-05-17 10:58:36,361 [main] INFO : Products Page Object Created...
+2025-05-17 10:58:36,361 [main] DEBUG: User is on the home page
+2025-05-17 10:58:36,361 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 10:58:36,361 [main] DEBUG: user redirected to login page
+2025-05-17 10:58:36,362 [main] DEBUG: user enter valid Email and Password
+2025-05-17 14:11:33,091 [main] INFO : Login Page Object Created...
+2025-05-17 14:11:33,095 [main] INFO : Products Page Object Created...
+2025-05-17 14:11:33,095 [main] DEBUG: User is on the home page
+2025-05-17 14:11:33,097 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 14:11:33,098 [main] DEBUG: user redirected to login page
+2025-05-17 14:11:33,099 [main] DEBUG: user enter valid Email and Password
+2025-05-17 14:11:33,156 [main] INFO : Login Page Object Created...
+2025-05-17 14:11:33,156 [main] INFO : Products Page Object Created...
+2025-05-17 14:11:33,156 [main] DEBUG: User is on the home page
+2025-05-17 14:11:33,157 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 14:11:33,157 [main] DEBUG: user redirected to login page
+2025-05-17 14:11:33,157 [main] DEBUG: user enter valid Email and Password
+2025-05-17 14:14:52,304 [main] INFO : Login Page Object Created...
+2025-05-17 14:14:52,311 [main] INFO : Products Page Object Created...
+2025-05-17 14:14:52,311 [main] DEBUG: User is on the home page
+2025-05-17 14:14:52,315 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 14:14:52,316 [main] DEBUG: user redirected to login page
+2025-05-17 14:14:52,319 [main] DEBUG: user enter valid Email and Password
+2025-05-17 14:14:52,321 [main] DEBUG: user clicked on login button
+2025-05-17 14:14:52,322 [main] DEBUG: user login successfully
+2025-05-17 14:14:52,461 [main] INFO : Login Page Object Created...
+2025-05-17 14:14:52,462 [main] INFO : Products Page Object Created...
+2025-05-17 14:14:52,462 [main] DEBUG: User is on the home page
+2025-05-17 14:14:52,463 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 14:14:52,464 [main] DEBUG: user redirected to login page
+2025-05-17 14:14:52,465 [main] DEBUG: user enter valid Email and Password
+2025-05-17 14:14:52,466 [main] DEBUG: user clicked on login button
+2025-05-17 14:14:52,467 [main] DEBUG: user login successfully
+2025-05-17 14:25:50,062 [main] INFO : Login Page Object Created...
+2025-05-17 14:25:50,066 [main] INFO : Products Page Object Created...
+2025-05-17 14:25:50,066 [main] DEBUG: User is on the home page
+2025-05-17 14:25:50,068 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 14:25:50,068 [main] DEBUG: user redirected to login page
+2025-05-17 14:25:50,069 [main] DEBUG: user enter valid Email and Password
+2025-05-17 14:25:50,070 [main] DEBUG: user clicked on login button
+2025-05-17 14:25:50,070 [main] DEBUG: user login successfully
+2025-05-17 14:25:50,123 [main] INFO : Login Page Object Created...
+2025-05-17 14:25:50,123 [main] INFO : Products Page Object Created...
+2025-05-17 14:25:50,124 [main] DEBUG: User is on the home page
+2025-05-17 14:25:50,124 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 14:25:50,124 [main] DEBUG: user redirected to login page
+2025-05-17 14:25:50,124 [main] DEBUG: user enter valid Email and Password
+2025-05-17 14:25:50,125 [main] DEBUG: user clicked on login button
+2025-05-17 14:25:50,125 [main] DEBUG: user login successfully
+2025-05-17 14:25:50,131 [main] INFO : Login Page Object Created...
+2025-05-17 14:25:50,132 [main] INFO : Products Page Object Created...
+2025-05-17 14:25:50,132 [main] DEBUG: User is on the home page
+2025-05-17 14:25:50,132 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 14:25:50,132 [main] DEBUG: user redirected to login page
+2025-05-17 14:25:50,133 [main] DEBUG: user enter valid Email and Password
+2025-05-17 14:25:50,133 [main] DEBUG: user clicked on login button
+2025-05-17 14:25:50,134 [main] DEBUG: Error Login Message
+2025-05-17 14:25:50,140 [main] INFO : Login Page Object Created...
+2025-05-17 14:25:50,140 [main] INFO : Products Page Object Created...
+2025-05-17 14:25:50,140 [main] DEBUG: User is on the home page
+2025-05-17 14:25:50,141 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 14:25:50,141 [main] DEBUG: user redirected to login page
+2025-05-17 14:25:50,141 [main] DEBUG: user enter valid Email and Password
+2025-05-17 14:25:50,141 [main] DEBUG: user clicked on login button
+2025-05-17 14:25:50,142 [main] DEBUG: Error Login Message
+2025-05-17 14:26:32,912 [main] INFO : Login Page Object Created...
+2025-05-17 14:26:32,916 [main] INFO : Products Page Object Created...
+2025-05-17 14:26:32,916 [main] DEBUG: User is on the home page
+2025-05-17 14:26:32,918 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 14:26:32,918 [main] DEBUG: user redirected to login page
+2025-05-17 14:26:32,920 [main] DEBUG: user enter valid Email and Password
+2025-05-17 14:26:32,920 [main] DEBUG: user clicked on login button
+2025-05-17 14:26:32,921 [main] DEBUG: user login successfully
+2025-05-17 14:26:32,971 [main] INFO : Login Page Object Created...
+2025-05-17 14:26:32,972 [main] INFO : Products Page Object Created...
+2025-05-17 14:26:32,972 [main] DEBUG: User is on the home page
+2025-05-17 14:26:32,972 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 14:26:32,972 [main] DEBUG: user redirected to login page
+2025-05-17 14:26:32,973 [main] DEBUG: user enter valid Email and Password
+2025-05-17 14:26:32,973 [main] DEBUG: user clicked on login button
+2025-05-17 14:26:32,973 [main] DEBUG: user login successfully
+2025-05-17 14:26:32,980 [main] INFO : Login Page Object Created...
+2025-05-17 14:26:32,980 [main] INFO : Products Page Object Created...
+2025-05-17 14:26:32,980 [main] DEBUG: User is on the home page
+2025-05-17 14:26:32,980 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 14:26:32,981 [main] DEBUG: user redirected to login page
+2025-05-17 14:26:32,981 [main] DEBUG: user enter valid Email and Password
+2025-05-17 14:26:32,981 [main] DEBUG: user clicked on login button
+2025-05-17 14:26:32,982 [main] DEBUG: Error Login Message
+2025-05-17 14:26:32,988 [main] INFO : Login Page Object Created...
+2025-05-17 14:26:32,988 [main] INFO : Products Page Object Created...
+2025-05-17 14:26:32,989 [main] DEBUG: User is on the home page
+2025-05-17 14:26:32,989 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 14:26:32,989 [main] DEBUG: user redirected to login page
+2025-05-17 14:26:32,989 [main] DEBUG: user enter valid Email and Password
+2025-05-17 14:26:32,990 [main] DEBUG: user clicked on login button
+2025-05-17 14:26:32,990 [main] DEBUG: Error Login Message
+2025-05-17 14:26:46,782 [main] INFO : Login Page Object Created...
+2025-05-17 14:26:46,787 [main] INFO : Products Page Object Created...
+2025-05-17 14:26:46,787 [main] DEBUG: User is on the home page
+2025-05-17 14:26:46,789 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 14:26:46,790 [main] DEBUG: user redirected to login page
+2025-05-17 14:26:46,791 [main] DEBUG: user enter valid Email and Password
+2025-05-17 14:26:46,792 [main] DEBUG: user clicked on login button
+2025-05-17 14:26:46,792 [main] DEBUG: user login successfully
+2025-05-17 14:26:46,845 [main] INFO : Login Page Object Created...
+2025-05-17 14:26:46,846 [main] INFO : Products Page Object Created...
+2025-05-17 14:26:46,846 [main] DEBUG: User is on the home page
+2025-05-17 14:26:46,846 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 14:26:46,846 [main] DEBUG: user redirected to login page
+2025-05-17 14:26:46,846 [main] DEBUG: user enter valid Email and Password
+2025-05-17 14:26:46,847 [main] DEBUG: user clicked on login button
+2025-05-17 14:26:46,847 [main] DEBUG: user login successfully
+2025-05-17 14:26:46,853 [main] INFO : Login Page Object Created...
+2025-05-17 14:26:46,853 [main] INFO : Products Page Object Created...
+2025-05-17 14:26:46,853 [main] DEBUG: User is on the home page
+2025-05-17 14:26:46,854 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 14:26:46,854 [main] DEBUG: user redirected to login page
+2025-05-17 14:26:46,854 [main] DEBUG: user enter valid Email and Password
+2025-05-17 14:26:46,855 [main] DEBUG: user clicked on login button
+2025-05-17 14:26:46,855 [main] DEBUG: Error Login Message
+2025-05-17 14:26:46,861 [main] INFO : Login Page Object Created...
+2025-05-17 14:26:46,861 [main] INFO : Products Page Object Created...
+2025-05-17 14:26:46,861 [main] DEBUG: User is on the home page
+2025-05-17 14:26:46,862 [main] DEBUG: user clicked on signIn signUp
+2025-05-17 14:26:46,862 [main] DEBUG: user redirected to login page
+2025-05-17 14:26:46,862 [main] DEBUG: user enter valid Email and Password
+2025-05-17 14:26:46,863 [main] DEBUG: user clicked on login button
+2025-05-17 14:26:46,863 [main] DEBUG: Error Login Message

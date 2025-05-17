@@ -1,5 +1,6 @@
 package Tests;
 
+import Pages.HomePage;
 import Pages.RegisterPage;
 import org.testng.annotations.Test;
 
@@ -9,12 +10,13 @@ public class RegisterTests extends BaseTests
     @Test
     public void testValidRegister() {
         RegisterPage registerPage = new RegisterPage(chromeDriver);
+        HomePage homePage = new HomePage(chromeDriver);
 
-        registerPage.checkHomeVisibility();
+        homePage.checkHomeVisibility();
         registerPage.clickOnSignInSignUp();
         registerPage.newUserSignupVisibility();
-        registerPage.enterName("Nariman");
-        registerPage.enterEmail("narimanfarag81@gmail.com");
+        registerPage.enterName("user");
+        registerPage.enterEmail("narimanfarag25@gmail.com");
         registerPage.clickOnSignUp();
         registerPage.addressInfoVisibility();
         registerPage.selectFemaleButton();
@@ -51,8 +53,9 @@ public class RegisterTests extends BaseTests
     @Test
     public void testInvalidRegister() {
         RegisterPage registerPage = new RegisterPage(chromeDriver);
+        HomePage homePage = new HomePage(chromeDriver);
 
-        registerPage.checkHomeVisibility();
+        homePage.checkHomeVisibility();
         registerPage.clickOnSignInSignUp();
         registerPage.newUserSignupVisibility();
         registerPage.enterName("Nariman");
