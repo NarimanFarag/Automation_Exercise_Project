@@ -532,4 +532,62 @@ public class RegisterPage {
             logger.trace("Error Exception : Email Existed Message is not displayed", e);
         }
     }
+
+    public void SetDate(String Day, String Month, String Year)
+    {
+        try
+        {
+            Assert.assertTrue(daysDropList.isDisplayed());
+            selectFromDays(Day);
+            Assert.assertTrue(monthsDropList.isDisplayed());
+            selectFromMonths(Month);
+            Assert.assertTrue(yearsDropList.isDisplayed());
+            selectFromYears(Year);
+            logger.debug("Fill Date..");
+        }
+        catch (Exception e)
+        {
+            logger.trace("Error Exception : Date", e);
+        }
+    }
+
+    public void SetUserInfo(String FName, String LName,String Password, String Company, String Add1,String Add2,String City, String Country, String State, String ZipCode, String MobileNumber)
+    {
+        try
+        {
+            enterFirstName(FName);
+            enterLastName(LName);
+            enterPassword(Password);
+            enterCompany(Company);
+            enterAddress1(Add1);
+            enterAddress2(Add2);
+            enterCity(City);
+            selectCountry(Country);
+            enterState(State);
+            enterZipCode(ZipCode);
+            enterMobileNumber(MobileNumber);
+            clickOnRegister();
+            logger.debug("Fill User Info..");
+        }
+        catch (Exception e)
+        {
+            logger.trace("Error Exception : User Info", e);
+        }
+    }
+
+    public void SetEmailAndPassword(String Name,String Password)
+    {
+        try
+        {
+            enterName(Name);
+            enterPassword(Password);
+            logger.debug("Fill Email and Password..");
+        }
+        catch (Exception e)
+        {
+            logger.trace("Error Exception : Email and Password", e);
+        }
+    }
+
 }
+

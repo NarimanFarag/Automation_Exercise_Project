@@ -8,39 +8,25 @@ import org.testng.annotations.Test;
 public class RegisterTests extends BaseTests
 {
     @Test
-    public void testValidRegister() {
+    public void testValidRegister()
+    {
         RegisterPage registerPage = new RegisterPage(chromeDriver);
         HomePage homePage = new HomePage(chromeDriver);
 
         homePage.checkHomeVisibility();
         registerPage.clickOnSignInSignUp();
         registerPage.newUserSignupVisibility();
-        registerPage.enterName("user");
-        registerPage.enterEmail("narimanfarag25@gmail.com");
+        registerPage.SetEmailAndPassword("user","narimanfarag25@gmail.com");
         registerPage.clickOnSignUp();
         registerPage.addressInfoVisibility();
         registerPage.selectFemaleButton();
 
-        registerPage.selectFromDays("3");
-        registerPage.selectFromMonths("12");
-        registerPage.selectFromYears("2000");
+        registerPage.SetDate("3", "12", "2000");
+
         registerPage.selectNewsLetter();
         registerPage.selectOptionRadio();
-        registerPage.enterPassword("123456");
 
-        registerPage.enterFirstName("Nariman");
-        registerPage.enterLastName("Farag");
-        registerPage.enterCompany("company1");
-        registerPage.enterAddress1("wnskhdjdgjydgjady");
-        registerPage.enterAddress2("dkhdgkgdghafhgsfafdad");
-        registerPage.enterCity("dkmdkjj");
-        registerPage.selectCountry("India");
-        registerPage.enterState("skmkjskjas");
-
-        registerPage.enterZipCode("165000");
-
-        registerPage.enterMobileNumber("01024658678797");
-        registerPage.clickOnRegister();
+        registerPage.SetUserInfo("Nariman","Farag","123456","company1", "wnskhdjdgjydgjady","dkhdgkgdghafhgsfafdad","dkmdkjj","India", "skmkjskjas", "165000", "01024658678797");
 
         registerPage.accountCreatedVisibility();
         registerPage.clickOnContinueButton();
@@ -51,15 +37,15 @@ public class RegisterTests extends BaseTests
     }
 
     @Test
-    public void testInvalidRegister() {
+    public void testInvalidRegister()
+    {
         RegisterPage registerPage = new RegisterPage(chromeDriver);
         HomePage homePage = new HomePage(chromeDriver);
 
         homePage.checkHomeVisibility();
         registerPage.clickOnSignInSignUp();
         registerPage.newUserSignupVisibility();
-        registerPage.enterName("Nariman");
-        registerPage.enterEmail("narimanfarag71@gmail.com");
+        registerPage.SetEmailAndPassword("Nariman","narimanfarag71@gmail.com");
         registerPage.clickOnSignUp();
         registerPage.emailExistedMessageVisibility();
 

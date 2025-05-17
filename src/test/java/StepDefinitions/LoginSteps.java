@@ -71,5 +71,14 @@ public class LoginSteps
         LoginPage.checkLoginAsVisibility();
     }
 
+
+    @Then("user logout")
+    public void  user_logout()
+    {
+        logger.debug("User Logout");
+        LoginPage.UserLogout();
+    }
+
+
 }
 

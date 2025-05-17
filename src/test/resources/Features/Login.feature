@@ -24,3 +24,17 @@ Feature: Login Feature
       | name | email |
       | Nariman  | narimanfarag81@gmail.com |
       | user     | narimanfarag22@gmail.com   |
+
+
+
+  Scenario Outline: User Logout
+    Given user in home page
+    And user clicked on signIn signUp
+    And user redirected to login page
+    When user enters "<name>" and "<email>"
+    And user clicked on login button
+    Then error message will appear
+    Then user logout
+    Examples:
+      | name | email |
+      | Nariman  | narimanfarag85@gmail.com |
