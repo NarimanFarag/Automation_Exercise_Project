@@ -3,7 +3,7 @@ package Tests;
 import Pages.HomePage;
 import org.testng.annotations.Test;
 
-public class HomeTests extends BaseTests
+public class HomeTest extends BaseTest
 {
     @Test
     public void testHome()

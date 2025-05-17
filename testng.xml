@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/Elasad/Downloads/lab3/NTI_Automation_Day4">
         <classes>
-            <class name="Tests.ProductsTests">
+            <class name="Tests.ProductsTest">
                 <methods>
                     <include name="verifyAllProductsVisibility"/>
                 </methods>

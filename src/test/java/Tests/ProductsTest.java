@@ -3,7 +3,7 @@ package Tests;
 import Pages.ProductsPage;
 import org.testng.annotations.Test;
 
-public class ProductsTests  extends BaseTests
+public class ProductsTest extends BaseTest
 {
     @Test
     public void verifyAllProductsVisibility()

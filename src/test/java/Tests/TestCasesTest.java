@@ -3,7 +3,7 @@ package Tests;
 import Pages.TestCasesPage;
 import org.testng.annotations.Test;
 
-public class TestCasesTests extends BaseTests
+public class TestCasesTest extends BaseTest
 {
 
     @Test

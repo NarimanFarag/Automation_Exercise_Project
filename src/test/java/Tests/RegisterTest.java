@@ -5,7 +5,7 @@ import Pages.RegisterPage;
 import org.testng.annotations.Test;
 
 
-public class RegisterTests extends BaseTests
+public class RegisterTest extends BaseTest
 {
     @Test
     public void testValidRegister()

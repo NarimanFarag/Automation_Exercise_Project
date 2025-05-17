@@ -4,7 +4,7 @@ import Pages.HomePage;
 import Pages.LoginPage;
 import org.testng.annotations.Test;
 
-public class LoginTests extends BaseTests
+public class LoginTest extends BaseTest
 {
     @Test
     public void testValidLogin()
