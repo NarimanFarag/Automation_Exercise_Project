@@ -221,5 +221,23 @@ public class ContactUsPage
 
     }
 
+    public void FillData(String Name, String Email, String Subject, String Message, String Path)
+    {
+        try
+        {
+            enterName(Name);
+            enterEmail(Email);
+            enterSubject(Subject);
+            enterMessage(Message);
+            uploadFile(Path);
+
+            logger.debug("Fill Data is Done..");
+        }
+        catch (Exception e)
+        {
+            logger.trace("Error Exception FillData Function in contact us Page ", e);
+        }
+    }
+
 
 }

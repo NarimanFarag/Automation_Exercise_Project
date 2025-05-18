@@ -1,7 +1,6 @@
 package StepDefinitions;
 
 import Pages.HomePage;
-import Pages.LoginPage;
 import Pages.RegisterPage;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;

@@ -9,17 +9,21 @@ public class ContactUsTest extends BaseTest
     public void testContactUs()
     {
         ContactUsPage contactus = new ContactUsPage(chromeDriver);
+        //Click On ContactUs
         contactus.clickOnContactUs();
+        //ContactUs Page Is Visible
         contactus.checkContactUsVisibility();
-        contactus.enterName("Nariman");
-        contactus.enterEmail("nariman@gmail.com");
-        contactus.enterSubject("skshjwsb");
-        contactus.enterMessage("wnsdjwdhuwdhuwdh");
-        contactus.uploadFile("");
+        //Fill Data (Name , Email, Subject, Message, Path)
+        contactus.FillData("Nariman", "nariman@gmail.com","skshjwsb", "wnsdjwdhuwdhuwdh","");
+        //Click On Submit Button
         contactus.clickOnSubmitButton();
+        //Handle Alerts
         contactus.handleAlerts();
+        //Success Message is Visible
         contactus.checkSuccessMessageVisibility();
+        //Click On Home Button
         contactus.clickOnHomeButton();
+
 
     }
 

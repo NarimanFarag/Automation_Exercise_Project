@@ -661,3 +661,66 @@
 2025-05-17 15:41:20,396 [main] DEBUG: user clicked on login button
 2025-05-17 15:41:20,397 [main] DEBUG: Error Login Message
 2025-05-17 15:41:20,397 [main] DEBUG: User Logout
+2025-05-18 23:55:58,531 [main] INFO : Login Page Object Created...
+2025-05-18 23:55:58,537 [main] INFO : Products Page Object Created...
+2025-05-18 23:55:58,537 [main] DEBUG: User is on the home page
+2025-05-18 23:55:58,539 [main] DEBUG: user clicked on signIn signUp
+2025-05-18 23:55:58,541 [main] DEBUG: user redirected to login page
+2025-05-18 23:55:58,543 [main] DEBUG: user enter valid Email and Password
+2025-05-18 23:55:58,544 [main] DEBUG: user clicked on login button
+2025-05-18 23:55:58,544 [main] DEBUG: user login successfully
+2025-05-18 23:55:58,640 [main] INFO : Login Page Object Created...
+2025-05-18 23:55:58,641 [main] INFO : Products Page Object Created...
+2025-05-18 23:55:58,641 [main] DEBUG: User is on the home page
+2025-05-18 23:55:58,641 [main] DEBUG: user clicked on signIn signUp
+2025-05-18 23:55:58,642 [main] DEBUG: user redirected to login page
+2025-05-18 23:55:58,642 [main] DEBUG: user enter valid Email and Password
+2025-05-18 23:55:58,643 [main] DEBUG: user clicked on login button
+2025-05-18 23:55:58,643 [main] DEBUG: user login successfully
+2025-05-18 23:55:58,654 [main] INFO : Login Page Object Created...
+2025-05-18 23:55:58,655 [main] INFO : Products Page Object Created...
+2025-05-18 23:55:58,655 [main] DEBUG: User is on the home page
+2025-05-18 23:55:58,656 [main] DEBUG: user clicked on signIn signUp
+2025-05-18 23:55:58,656 [main] DEBUG: user redirected to login page
+2025-05-18 23:55:58,656 [main] DEBUG: user enter valid Email and Password
+2025-05-18 23:55:58,658 [main] DEBUG: user clicked on login button
+2025-05-18 23:55:58,658 [main] DEBUG: Error Login Message
+2025-05-18 23:55:58,671 [main] INFO : Login Page Object Created...
+2025-05-18 23:55:58,671 [main] INFO : Products Page Object Created...
+2025-05-18 23:55:58,671 [main] DEBUG: User is on the home page
+2025-05-18 23:55:58,672 [main] DEBUG: user clicked on signIn signUp
+2025-05-18 23:55:58,673 [main] DEBUG: user redirected to login page
+2025-05-18 23:55:58,673 [main] DEBUG: user enter valid Email and Password
+2025-05-18 23:55:58,674 [main] DEBUG: user clicked on login button
+2025-05-18 23:55:58,674 [main] DEBUG: Error Login Message
+2025-05-18 23:55:58,686 [main] INFO : Login Page Object Created...
+2025-05-18 23:55:58,688 [main] INFO : Products Page Object Created...
+2025-05-18 23:55:58,688 [main] DEBUG: User is on the home page
+2025-05-18 23:55:58,689 [main] DEBUG: user clicked on signIn signUp
+2025-05-18 23:55:58,689 [main] DEBUG: user redirected to login page
+2025-05-18 23:55:58,689 [main] DEBUG: user enter valid Email and Password
+2025-05-18 23:55:58,690 [main] DEBUG: user clicked on login button
+2025-05-18 23:55:58,690 [main] DEBUG: Error Login Message
+2025-05-18 23:55:58,692 [main] DEBUG: User Logout
+2025-05-19 00:01:41,634 [main] INFO : Login Page Object Created...
+2025-05-19 00:01:41,638 [main] INFO : Products Page Object Created...
+2025-05-19 00:01:41,638 [main] DEBUG: User is on the home page
+2025-05-19 00:01:41,641 [main] INFO : ContactUs Page Object Created...
+2025-05-19 00:01:41,641 [main] DEBUG: User Click On ContactUs
+2025-05-19 00:01:41,642 [main] DEBUG:  ContactUs Page Is Visible
+2025-05-19 00:01:41,644 [main] DEBUG: Fill Data (Name , Email, Subject, Message, Path)
+2025-05-19 00:01:41,644 [main] DEBUG: Fill Data is Done..
+2025-05-19 00:01:41,644 [main] DEBUG: Click On Submit Button
+2025-05-19 00:01:41,645 [main] DEBUG: Handle Alerts
+2025-05-19 00:01:41,645 [main] INFO : Products Page Object Created...
+2025-05-19 00:01:41,646 [main] DEBUG: Success Message is Visible
+2025-05-19 00:01:41,646 [main] DEBUG:  Click On Home Button
+2025-05-19 00:02:01,215 [main] INFO : Login Page Object Created...
+2025-05-19 00:02:01,218 [main] INFO : Products Page Object Created...
+2025-05-19 00:02:01,218 [main] DEBUG: User is on the home page
+2025-05-19 00:02:01,220 [main] INFO : Products Page Object Created...
+2025-05-19 00:02:01,220 [main] DEBUG: User Scroll Down
+2025-05-19 00:02:01,221 [main] DEBUG: Subscribe Button is Visible
+2025-05-19 00:02:01,221 [main] DEBUG: Click on Subscribe Button
+2025-05-19 00:02:01,222 [main] DEBUG: User entered Email
+2025-05-19 00:02:01,223 [main] DEBUG: Success Message is Visible
